@@ -20,3 +20,4 @@ flutter run
 	 2. Uncomment and add the `assets:` entry in `pubspec.yaml`.
 	 3. In `lib/main.dart` replace the `NetworkImage` with `AssetImage('assets/profile.jpg')`.
 # personalprofile
+# personalprofile
