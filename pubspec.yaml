@@ -1,0 +1,23 @@
+name: personal_profile_app
+description: A minimal Personal Profile App demonstrating layout and dark mode toggle.
+version: 0.1.0
+publish_to: 'none'
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.1.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  # If you want to use a local profile image, add it here, for example:
+  # assets:
+  #   - assets/profile.jpg
+  assets:
+    - assets/profile.jpg

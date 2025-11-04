@@ -1,0 +1,7 @@
+/build/
+.dart_tool/
+.idea/
+.packages
+.pub/
+.vscode/
+**/generated_plugin_registrant.dart
