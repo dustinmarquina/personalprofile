@@ -1,4 +1,6 @@
 # Personal Profile App
+DEMO:
+<img width="750" height="1334" alt="Simulator Screenshot - iPhone SE (3rd generation) - 2025-11-04 at 11 48 55" src="https://github.com/user-attachments/assets/37ac3df4-d196-4481-b8cb-0ab9294867d9" />
 
 A minimal Flutter app that shows a personal profile, skills, and social links. Demonstrates layout widgets (Column, ListTile, CircleAvatar, Card) and a dark mode toggle.
 
